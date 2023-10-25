@@ -1,4 +1,5 @@
 import FifthContent from "../FifthContent/FifthContent";
+import Footer from "../Footer/Footer";
 import FourthContent from "../FourthContent/FourthContent";
 import Navbar from "../Navbar/Navbar";
 import SecondContents from "../SecondContents/SecondContents";
@@ -18,6 +19,7 @@ const Homepage = () => {
           <FifthContent></FifthContent>
           <SixthContent></SixthContent>
           <SeventhContent></SeventhContent>
+          <Footer></Footer>
         </div>
     );
 };
