@@ -1,3 +1,4 @@
+import EighthContent from "../EighthContent/EighthContent";
 import FifthContent from "../FifthContent/FifthContent";
 import Footer from "../Footer/Footer";
 import FourthContent from "../FourthContent/FourthContent";
@@ -13,13 +14,14 @@ const Homepage = () => {
         <div>
           <Navbar></Navbar>
           <UpperContent></UpperContent>
-          <SecondContents></SecondContents>
-          <ThirdContent></ThirdContent>
+           <SecondContents></SecondContents>
+           <ThirdContent></ThirdContent>
           <FourthContent></FourthContent>
           <FifthContent></FifthContent>
           <SixthContent></SixthContent>
           <SeventhContent></SeventhContent>
-          <Footer></Footer>
+          <EighthContent></EighthContent>
+          <Footer></Footer> 
         </div>
     );
 };

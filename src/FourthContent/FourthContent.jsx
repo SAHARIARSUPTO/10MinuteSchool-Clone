@@ -10,7 +10,7 @@ const FourthContent = () => {
             
             <div className='pt-20 pb-20'>
                 <p className=' text-l font-bold text-center justify-between text-blue-700 pb-5'><FontAwesomeIcon icon={faSchool} />  SSC & HSC</p>
-                <p className='pb-5 text-4xl font-bold text-center justify-center'>SSC ও HSC শিক্ষার্থীদের জন্য</p>
+                <p className='pb-5 text-xl font-bold text-center justify-center  sm:text-4xl'>SSC ও HSC শিক্ষার্থীদের জন্য</p>
             </div>
     
     

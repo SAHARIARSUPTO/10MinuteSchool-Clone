@@ -7,7 +7,7 @@ const ThirdCard = () => {
    <div className='pb-20'>
     <div className='w-4/5 text-center justify-center bg-slate-700 rounded-xl p-5 mx-auto'>
          <div className='pb-5'>
-            <p className='text-white text-xl text-center items-center'>দেশের সেরা প্রতিষ্ঠানগুলো নিচ্ছে আমাদের কর্পোরেট স্কিলস ডেভেলপমেন্ট প্রোগ্রাম</p>
+            <p className='text-white  text-xl  text-center items-center'>দেশের সেরা প্রতিষ্ঠানগুলো নিচ্ছে আমাদের কর্পোরেট স্কিলস ডেভেলপমেন্ট প্রোগ্রাম</p>
         </div>
 
 

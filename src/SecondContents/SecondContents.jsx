@@ -11,7 +11,7 @@ const SecondContents = () => {
                 <p className='text-4xl text-center p-3 font-bold'>নিজের শেখা নিজেই গুছিয়ে নেয়ার যাত্রা শুরু হোক</p>
                 <p className='text-2xl text-center p-3'>যেকোনো বিষয়ে যেকোনো কিছু শিখতে চলে যাও তোমার পছন্দের সেকশনে</p>
             </div>
-            <div className='grid grid-cols-2 gap-10 w-3/5 justify-center mx-auto pb-20'>
+            <div className='grid grid-cols-1 sm:grid-cols-2 sm:items-center gap-10 w-3/5 justify-center mx-auto pb-20'>
 
                 <a href="">
                 <div className='flex gap-5 bg-white rounded-xl p-7 hover:bg-base-200 '>

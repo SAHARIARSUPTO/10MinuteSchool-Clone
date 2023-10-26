@@ -10,10 +10,10 @@ const SecondSixth = () => {
     return (
         <div className='text-center' style={backgroundStyle}>
             <div className='mx-auto'>
-                <p className='text-center text-3xl justify-center mx-auto pb-5 font-bold'>
+                <p className='text-center text-xl sm:text-3xl justify-center mx-auto pb-5 font-bold'>
                     আজই জয়েন করুন বাংলাদেশের সবচেয়ে বড় লার্নিং প্ল্যাটফর্মে
                 </p>
-                <button className='btn btn-success text-3xl text-white text-center items-center mx-auto'>
+                <button className='btn btn-success text-xl sm:text-2xl text-white text-center items-center mx-auto'>
                     জয়েন করুন
                 </button>
             </div>
