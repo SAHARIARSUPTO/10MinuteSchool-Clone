@@ -1,0 +1,20 @@
+
+.scrolling-text {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    margin-top: 20px; /* Adjust the margin-top as needed */
+}
+
+.scrolling-text p {
+    animation: scrollText 50s linear infinite; /* Adjust the animation duration as needed */
+}
+
+@keyframes scrollText {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}

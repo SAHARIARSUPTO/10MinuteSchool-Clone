@@ -3,6 +3,7 @@ import FifthContent from "../FifthContent/FifthContent";
 import Footer from "../Footer/Footer";
 import FourthContent from "../FourthContent/FourthContent";
 import Navbar from "../Navbar/Navbar";
+import Scroll from "../Scroll/Scroll";
 import SecondContents from "../SecondContents/SecondContents";
 import SeventhContent from "../SeventhContent/SeventhContent";
 import SixthContent from "../SixthContent/SixthContent";
@@ -12,6 +13,7 @@ import UpperContent from "../UpperContent/UpperContent";
 const Homepage = () => {
     return (
         <div>
+            <Scroll></Scroll>
           <Navbar></Navbar>
           <UpperContent></UpperContent>
            <SecondContents></SecondContents>

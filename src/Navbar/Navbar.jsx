@@ -5,7 +5,8 @@ import { faBars, faBook, faList, faMagnifyingGlass, faPerson, faPhone, faRocket,
 
 const Navbar = () => {
     return (
-        <div className='text-center mx-auto flex-row'>
+<div className=''>
+<div className='text-center mx-auto flex-row'>
             <div className="navbar bg-base-100 text-center flex-row">
                 <div className="flex-row">
                     <a className="btn btn-ghost normal-case text-xl">
@@ -66,6 +67,7 @@ const Navbar = () => {
                 </div>
             </div>
         </div>
+</div>
     );
 };
 
